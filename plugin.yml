@@ -1,0 +1,9 @@
+name: OreSpawn
+version: 1.0.0
+main: ZoneGameZ\Ore\Main
+api: 3.0.0
+author: ZoneGameZ
+
+commands:
+  orespawn:
+    description: random ore on - off
